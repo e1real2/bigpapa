@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/semantic/semantic.min.css": "/css/semantic/semantic.min.css",
+    "/js/semantic/semantic.min.js": "/js/semantic/semantic.min.js",
+    "/css/owl.carousel/owl.carousel.min.css": "/css/owl.carousel/owl.carousel.min.css",
+    "/js/owl.carousel/owl.carousel.min.js": "/js/owl.carousel/owl.carousel.min.js"
+}
